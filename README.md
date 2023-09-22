@@ -1,4 +1,4 @@
-# Flappy_Ch
+# Flappy_Bird
 Flappy bird using Pygame but re defined a few mechanics 
 
 ##Sample GIF
